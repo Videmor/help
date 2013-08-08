@@ -1,0 +1,101 @@
+/* TODO: Switch the names of these files over to ProximaNova_Bold */
+ /*@font-face {font-family: 'ProximaNova-Bold';src: url('http://sperant-site.s3.amazonaws.com/webfonts/23BAC1_2_0.eot');src: url('http://sperant-site.s3.amazonaws.com/webfonts/23BAC1_2_0.eot?#iefix') format('embedded-opentype'),url('http://sperant-site.s3.amazonaws.com/webfonts/23BAC1_2_0.woff') format('woff'),url('http://sperant-site.s3.amazonaws.com/webfonts/23BAC1_2_0.ttf') format('truetype');}
+ 
+ @font-face {font-family: 'ProximaNova-Light';src: url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Light.eot');src: url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Light.eot?#iefix') format('embedded-opentype'),url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Light.woff') format('woff'),url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Light.ttf') format('truetype');}
+
+ @font-face {font-family: 'ProximaNova-Regular';src: url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Regular.eot');src: url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Regular.eot?#iefix') format('embedded-opentype'),url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Regular.woff') format('woff'),url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Regular.ttf') format('truetype');}
+ 
+ @font-face {font-family: 'ProximaNova-Thin';src: url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Thin.eot');src: url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Thin.eot?#iefix') format('embedded-opentype'),url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Thin.woff') format('woff'),url('http://sperant-site.s3.amazonaws.com/webfonts/ProximaNova_Thin.ttf') format('truetype');}*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 100px;
+}
+
+.navbar-inner {
+  padding: 5px 0px;
+  background-image: none;
+  background-color: #44B9B7
+}
+
+.navbar .nav.pull-right li {
+  line-height: 42px
+}
+.navbar .nav.pull-right a {
+  font-family: 'Open Sans', sans-serif;
+  margin-right: 40px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: normal;
+  text-shadow: none;
+}
+.navbar .nav.pull-right li:last-child a {
+  margin-right: 0px;
+}
+.navbar .nav.pull-right a:hover {
+  color: #E7E7E7;
+}
+.navbar .nav.pull-right a.orange-button {
+  display: inline-block;
+}
+
+#menu {  
+  border: 1px solid #eee;
+  width: 180px;
+  background: #F7F7F7;
+  border-radius: 5px;
+}
+@media (min-width: 1200px) {
+  width: 200px;
+}
+@media (max-width: 979px) and (min-width: 768px) {
+  #menu {
+    width: 140px;
+  }
+}
+@media (max-width: 768px) {
+  #menu {
+    min-height: 0px;
+    border: none;
+    position: static;
+    width: auto;
+    margin-bottom: 20px;
+  }
+}
+
+#menu li.nav-header {
+  color: #44B9B7;
+  font-weight: normal;
+  letter-spacing: 2px;
+  font-size: 14px;
+}
+#menu li a {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+#menu li a {
+  color: #999;
+  text-shadow: none;
+}
+#menu li.active a {
+  background-color: #33a5c8;
+  color: #fff;
+}
+
+.orange-button {
+  display: inline-block;
+  line-height: 20px;
+  border-radius: 20px;
+  vertical-align: middle;
+  color: #ffffff !important;
+  padding: 0px 10px;
+}
+.orange-button {
+}
+
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
