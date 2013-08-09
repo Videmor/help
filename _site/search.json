@@ -7,7 +7,7 @@
       "categories": [
 
       ],
-      "body": "   Sperant es un sistema desarrollado por EterniaSoft orientado a automatizar las operaciones de una inmobiliaria. Facilita el registro y seguimiento de clientes, desde que llegan hasta que independizan su propiedad.     Así mismo permite una eficiente gestión de sus proyectos, unidades, vendedores, contratos y procesos de adquisición.   Es una herramienta completa, con vistas muy sencillas de usar, y reportes que permitirán aprovechar al máximo toda la información ingresada en el sistema.     Sperant tiene además interfases con Sistema 10, el ERP más reconocido en la industria de construcción.     "
+      "body": "   Sperant es un sistema desarrollado por EterniaSoft orientado a automatizar las operaciones de una inmobiliaria. Facilita el registro y seguimiento de clientes, desde que llegan hasta que independizan su propiedad.     As├¡ mismo permite una eficiente gesti├│n de sus proyectos, unidades, vendedores, contratos y procesos de adquisici├│n.   Es una herramienta completa, con vistas muy sencillas de usar, y reportes que permitir├ín aprovechar al m├íximo toda la informaci├│n ingresada en el sistema.     Sperant tiene adem├ís interfases con Sistema 10, el ERP m├ís reconocido en la industria de construcci├│n.     "
     },
     {
       "title": "Aspectos generales",
@@ -16,7 +16,7 @@
       "categories": [
 
       ],
-      "body": "   En esta sección de ayuda se muestran generalidades del sistema que ayudarán al usuario a mejorar su usabilidad.   Se describen los siguientes aspectos: "
+      "body": "  En esta secci├│n de ayuda se muestran generalidades del sistema que ayudar├ín al usuario a mejorar su usabilidad.   Se describen los siguientes aspectos:   Navegaci├│n   Perfil   Actividades   Eventos   Mensajes   B├║squeda avanzada   Cerrar sesi├│n"
     },
     {
       "title": "Cerrar sesion",
@@ -25,7 +25,7 @@
       "categories": [
 
       ],
-      "body": "   Para cerrar su sesión debe hacer click en el botón que se encuentra en la parte superior derecha de la pantalla.     "
+      "body": "Para cerrar su sesi├│n debe hacer click en el bot├│n que se encuentra en la parte superior derecha de la pantalla. "
     },
     {
       "title": "Welcome",
@@ -43,7 +43,7 @@
       "categories": [
 
       ],
-      "body": "   Algunas recomendaciones para la navegación en el sistema:     El sistema se navega a través la siguiente estructura: Menú Principal, Sub-Menú, Secciones, Sub-Secciones.         El sistema también cuenta con diálogos y ventanas laterales que se muestran dependiendo de las opciones elegidas.          Breadcrumbs o \"migajas de pan\" son utilizadas para recordar la ruta por la que llegaron a la ventana actual.         En vistas que requieran mayor despliegue horizontal puedes utilizar el scroll lateral, o incluso puedes minimizar el menú principal.         El menú queda minimizado, y la pantalla muestra más información.     "
+      "body": "  Algunas recomendaciones para la navegaci├│n en el sistema: El sistema se navega a trav├®s la siguiente estructura: Men├║ Principal, Sub-Men├║, Secciones, Sub-Secciones.  El sistema tambi├®n cuenta con di├ílogos y ventanas laterales que se muestran dependiendo de las opciones elegidas.  Breadcrumbs o \"migajas de pan\" son utilizadas para recordar la ruta por la que llegaron a la ventana actual.  En vistas que requieran mayor despliegue horizontal puedes utilizar el scroll lateral, o incluso puedes minimizar el men├║ principal.  "
     },
     {
       "title": "Perfil",
@@ -52,16 +52,16 @@
       "categories": [
 
       ],
-      "body": "   Todo usuario puede editar su perfil. Para hacerlo sólo debe hacerle click al ícono en forma de persona en la parte superior derecha.         Al editar su perfil, deberá llenar todos los campos obligatorios, podrá seleccionar un archivo para actualizar su foto de perfil. Y deberá asegurarse de colocar su contraseña actual antes de presionar el botón de actualizar.     "
+      "body": "  Todo usuario puede editar su perfil. Para hacerlo s├│lo debe hacerle click al ├¡cono en forma de persona en la parte superior derecha.    Al editar su perfil, deber├í llenar todos los campos obligatorios, podr├í seleccionar un archivo para actualizar su foto de perfil. "
     },
     {
-      "title": "Cerrar sesion",
+      "title": "Recomendaciones de uso",
       "url": "/recomendacionesdeuso.html",
       "date": null,
       "categories": [
 
       ],
-      "body": "   Se recomienda trabajar con Google Chrome, si bien el sistema trabaja con otros navegadores, algunas funcionalidades fueron diseñadas específicamente para Chrome.     En el caso de las importaciones de archivos Excel se recomienda lo siguiente:   - Importar siempre archivos grabados como Excel versión 97-2003.   - Si se intenta importar un archivo previamente exportado, grábelo como 97-2003 antes de importarlo.     La resolución recomendada para las vistas de Sperant es de mínimo 1024 x 728. "
+      "body": "Se recomienda trabajar con Google Chrome, si bien el sistema trabaja con otros navegadores, algunas funcionalidades fueron dise├▒adas espec├¡ficamente para Chrome. En el caso de las importaciones de archivos Excel se recomienda lo siguiente:   - Importar siempre archivos grabados como Excel versi├│n 97-2003.   - Si se intenta importar un archivo previamente exportado, gr├íbelo como 97-2003 antes de importarlo. La resoluci├│n recomendada para las vistas de Sperant es de m├¡nimo 1024 x 728."
     }
   ]
 }
