@@ -12,12 +12,12 @@ title: Aspectos generales
 
   *   [Perfil](perfil.html)
 
-  *   [Actividades](navegacion.html)
+  *   [Actividades](actividades.html)
 
-  *   [Eventos](navegacion.html)
+  *   [Eventos](eventos.html)
 
-  *   [Mensajes](navegacion.html)
+  *   [Mensajes](mensajes.html)
 
-  *   [Búsqueda avanzada](navegacion.html)
+  *   [Búsqueda avanzada](bavanzada.html)
 
   *   [Cerrar sesión](cerrarsesion.html)
