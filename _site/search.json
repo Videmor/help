@@ -34,7 +34,7 @@
       "categories": [
 
       ],
-      "body": "  La bÃºsqueda avanzada es una herramienta que le permite utilizar mÃºltiples filtros y condiciones para ubicar resultados especÃ­ficos.   Ã‰sta herramienta estÃ¡ disponible en los listados de proyectos, bloques, unidades, clientes y usuarios.   Para acceder a esta secciÃ³n, deberÃ¡ hacer click en el siguiente Ã­cono, en la parte superior derecha del listado en cuestiÃ³n: "
+      "body": "  La bÃºsqueda avanzada es una herramienta que le permite utilizar mÃºltiples filtros y condiciones para ubicar resultados especÃ­ficos.   Ã‰sta herramienta estÃ¡ disponible en los listados de proyectos, bloques, unidades, clientes y usuarios.   Para acceder a esta secciÃ³n, deberÃ¡ hacer click en el siguiente Ã­cono, en la parte superior derecha del listado en cuestiÃ³n:    La vista de bÃºsqueda avanzada tiene la siguiente estructura para todos los casos:    Lo primero es hacer click en \"Adicionar condiciÃ³n\" llenar cada parte de la condiciÃ³n. Si desea borrar la condiciÃ³n, sÃ³lo tiene que hacer click en el Ã­cono de eliminar. Para seguir adicionando condiciones basta con hacer click en \"Adicionar condiciÃ³n\" y podrÃ¡ llenar una condiciÃ³n sobre otra.    La mayorÃ­a de campos podrÃ¡n ser filtrados usando valores de texto, pero algunos campos tendrÃ¡n valores especÃ­ficos que sÃ³lo permitirÃ¡n seleccionar sus valores con una lista desplegable, por ejemplo al filtrar gÃ©nero en clientes:    Otros campos tendrÃ¡n valores tipo fecha y su valor serÃ¡ seleccionado de un calendario, por ejemplo la fecha de creaciÃ³n de un cliente:    Una vez que tega todas las condiciones deseadas presionar el botÃ³n buscar. La relaciÃ³n lÃ³gica entre las condiciones es un \"Y\", de esta manera se combinan y dan un resultado en la parte inferior de la vista. "
     },
     {
       "title": "Cerrar sesion",
@@ -44,6 +44,15 @@
 
       ],
       "body": "Para cerrar su sesiÃ³n debe hacer click en el botÃ³n que se encuentra en la parte superior derecha de la pantalla. "
+    },
+    {
+      "title": "Eventos",
+      "url": "/eventos.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "  Los eventos ayudan al usuario a organizarse. Ya sea para reuniones con un cliente, o con personal interno de la empresa, o simplemente para recordarle que debe llamar a algÃºn cliente, facilitando el seguimiento.   El usuario podrÃ¡ ingresar haciendo click al Ã­cono de eventos en la parte superior derecha de la pantalla.    La vista de eventos es una lista o calendario vertical, podrÃ¡ navegar moviÃ©ndose hacia arriba o hacia abajo, o usando el campo de mes. Para regresar al dÃ­a actual sÃ³lo debe presionar el botÃ³n \"Hoy\".   Para ubicar rÃ¡pidamente un evento puede utilizar el buscador.   Para crear un evento presionar el botÃ³n nuevo, y llenar el formulario de evento.   Un evento puede estar relacionado a un proyecto, a una unidad especÃ­fica y/o a un cliente, pero tambiÃ©n puede ser un evento del usuario que no tiene relaciÃ³n a otros objetos y que le sirva para ordenar su agenda. Por esta razÃ³n los campos de proyecto, unidad y ciente son opcionales.   El evento permite tener invitados, que pueden ser clientes o usuarios internos del sistema. Al ser usuarios internos del sistema, les llegarÃ¡ un correo interno indicÃ¡ndoles que han sido invitados a dicho evento, y adicionalmente se les agendarÃ¡ el evento en su agenda. De ser un cliente simplemente les llegarÃ¡ un correo de invitaciÃ³n al evento. Las invitaciones son datos opcionales.   Los datos bÃ¡sicos del evento son su nombre, fecha de inicio, hora de inicio y la duraciÃ³n. Pero el usuario podrÃ¡ especificar tambiÃ©n el lugar donde se darÃ¡ el evento, y una pequeÃ±a descripciÃ³n sobre lo que se desarrollarÃ¡.   El usuario podrÃ¡ tambiÃ©n adicionar un recordatorio al evento, presionando el botÃ³n en forma de reloj al costado del botÃ³n de \"Crear evento\". El recordatorio no podrÃ¡ ser creado para fechas anteriores a la actual.   Finalmente para guardar el evento, presionar \"Crear evento\". Se actualizarÃ¡ la vista de eventos mostrando su nuevo evento en la misma.   Otra forma de crear un evento directamente en la vista de eventos es ubicar el mouse en el dÃ­a deseado y presionando el botÃ³n de \"Agregar evento\" que aparecerÃ¡. Esta forma llamarÃ¡ a la ventana de creaciÃ³n de evento pero tendrÃ¡ el dÃ­a preseleccionado.   Para editar algÃºn evento, ubique el evento en el calendario y hÃ¡gale click. Se mostrarÃ¡ una vista lateral del evento, para editar presione el Ã­cono en forma de lÃ¡piz. Al finalizar la ediciÃ³n presione \"Actualizar evento\".   Desde esa misma vista lateral del evento podrÃ¡ asignar mÃ¡s invitados o eliminar el evento, clickeando en los Ã­conos correspondientes."
     },
     {
       "title": "Welcome",
