@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "entries": [
     {
@@ -8,7 +7,7 @@
       "categories": [
 
       ],
-      "body": "  Sperant es un sistema desarrollado por EterniaSoft orientado a automatizar las operaciones de una inmobiliaria. Facilita el registro y seguimiento de clientes, desde que llegan hasta que independizan su propiedad.   As├¡ mismo permite una eficiente gesti├│n de sus proyectos, unidades, vendedores, contratos y procesos de adquisici├│n.   Es una herramienta completa, con vistas muy sencillas de usar, y reportes que permitir├ín aprovechar al m├íximo toda la informaci├│n ingresada en el sistema.         "
+      "body": "  Sperant es un sistema desarrollado por EterniaSoft orientado a automatizar las operaciones de una inmobiliaria. Facilita el registro y seguimiento de clientes, desde que llegan hasta que independizan su propiedad.   AsÃ­ mismo permite una eficiente gestiÃ³n de sus proyectos, unidades, vendedores, contratos y procesos de adquisiciÃ³n.   Es una herramienta completa, con vistas muy sencillas de usar, y reportes que permitirÃ¡n aprovechar al mÃ¡ximo toda la informaciÃ³n ingresada en el sistema.         "
     },
     {
       "title": "Actividades",
@@ -17,7 +16,7 @@
       "categories": [
 
       ],
-      "body": "  La secci├│n de actividades sirve de bit├ícora o registro de todo lo ocurrido en el sistema. Esta secci├│n se encuentra en clientes, proyectos, unidades y usuarios.   Existen diferentes tipos de actividades, muchas relacionadas a interacciones entre objetos, ya sean visitas de un cliente a un proyecto, llamadas de un vendedor a un cliente, cambios realizados por un usuario a un proyecto, etc.   Este es un ejemplo de las actividades que se muestran en una unidad:    Habr├ín periodos que no registren actividades, y el usuario podr├í navegar en esta secci├│n presionando el bot├│n de \"Cargar m├ís\"."
+      "body": "  La secciÃ³n de actividades sirve de bitÃ¡cora o registro de todo lo ocurrido en el sistema. Esta secciÃ³n se encuentra en clientes, proyectos, unidades y usuarios.   Existen diferentes tipos de actividades, muchas relacionadas a interacciones entre objetos, ya sean visitas de un cliente a un proyecto, llamadas de un vendedor a un cliente, cambios realizados por un usuario a un proyecto, etc.   Este es un ejemplo de las actividades que se muestran en una unidad:    HabrÃ¡n periodos que no registren actividades, y el usuario podrÃ¡ navegar en esta secciÃ³n presionando el botÃ³n de \"Cargar mÃ¡s\"."
     },
     {
       "title": "Aspectos generales",
@@ -26,7 +25,7 @@
       "categories": [
 
       ],
-      "body": "  En esta secci├│n de ayuda se muestran generalidades del sistema que ayudar├ín al usuario a mejorar su usabilidad.   Se describen los siguientes aspectos:   Navegaci├│n   Perfil   Actividades   Eventos   Mensajes   B├║squeda avanzada   Cerrar sesi├│n"
+      "body": "  En esta secciÃ³n de ayuda se muestran generalidades del sistema que ayudarÃ¡n al usuario a mejorar su usabilidad.   Se describen los siguientes aspectos:   NavegaciÃ³n   Perfil   Actividades   Eventos   Mensajes   BÃºsqueda avanzada   Cerrar sesiÃ³n"
     },
     {
       "title": "Busqueda avanzada",
@@ -35,7 +34,7 @@
       "categories": [
 
       ],
-      "body": "  La b├║squeda avanzada es una herramienta que le permite utilizar m├║ltiples filtros y condiciones para ubicar resultados espec├¡ficos.   ├ësta herramienta est├í disponible en los listados de proyectos, bloques, unidades, clientes y usuarios.   Para acceder a esta secci├│n, deber├í hacer click en el siguiente ├¡cono, en la parte superior derecha del listado en cuesti├│n: "
+      "body": "  La bÃºsqueda avanzada es una herramienta que le permite utilizar mÃºltiples filtros y condiciones para ubicar resultados especÃ­ficos.   Ã‰sta herramienta estÃ¡ disponible en los listados de proyectos, bloques, unidades, clientes y usuarios.   Para acceder a esta secciÃ³n, deberÃ¡ hacer click en el siguiente Ã­cono, en la parte superior derecha del listado en cuestiÃ³n: "
     },
     {
       "title": "Cerrar sesion",
@@ -44,7 +43,7 @@
       "categories": [
 
       ],
-      "body": "Para cerrar su sesi├│n debe hacer click en el bot├│n que se encuentra en la parte superior derecha de la pantalla. "
+      "body": "Para cerrar su sesiÃ³n debe hacer click en el botÃ³n que se encuentra en la parte superior derecha de la pantalla. "
     },
     {
       "title": "Welcome",
@@ -62,7 +61,7 @@
       "categories": [
 
       ],
-      "body": "  Algunas recomendaciones para la navegaci├│n en el sistema: El sistema se navega a trav├®s la siguiente estructura: Men├║ Principal, Sub-Men├║, Secciones, Sub-Secciones.  El sistema tambi├®n cuenta con di├ílogos y ventanas laterales que se muestran dependiendo de las opciones elegidas.  Breadcrumbs o \"migajas de pan\" son utilizadas para recordar la ruta por la que llegaron a la ventana actual.  En vistas que requieran mayor despliegue horizontal puedes utilizar el scroll lateral, o incluso puedes minimizar el men├║ principal.  "
+      "body": "  Algunas recomendaciones para la navegaciÃ³n en el sistema: El sistema se navega a travÃ©s la siguiente estructura: MenÃº Principal, Sub-MenÃº, Secciones, Sub-Secciones.  El sistema tambiÃ©n cuenta con diÃ¡logos y ventanas laterales que se muestran dependiendo de las opciones elegidas.  Breadcrumbs o \"migajas de pan\" son utilizadas para recordar la ruta por la que llegaron a la ventana actual.  En vistas que requieran mayor despliegue horizontal puedes utilizar el scroll lateral, o incluso puedes minimizar el menÃº principal.  "
     },
     {
       "title": "Perfil",
@@ -71,7 +70,7 @@
       "categories": [
 
       ],
-      "body": "  Todo usuario puede editar su perfil. Para hacerlo s├│lo debe hacerle click al ├¡cono en forma de persona en la parte superior derecha.    Al editar su perfil, deber├í llenar todos los campos obligatorios, podr├í seleccionar un archivo para actualizar su foto de perfil. "
+      "body": "  Todo usuario puede editar su perfil. Para hacerlo sÃ³lo debe hacerle click al Ã­cono en forma de persona en la parte superior derecha.    Al editar su perfil, deberÃ¡ llenar todos los campos obligatorios, podrÃ¡ seleccionar un archivo para actualizar su foto de perfil. "
     },
     {
       "title": "Recomendaciones de uso",
@@ -80,75 +79,7 @@
       "categories": [
 
       ],
-      "body": "Se recomienda trabajar con Google Chrome, si bien el sistema trabaja con otros navegadores, algunas funcionalidades fueron dise├▒adas espec├¡ficamente para Chrome. En el caso de las importaciones de archivos Excel se recomienda lo siguiente:   - Importar siempre archivos grabados como Excel versi├│n 97-2003.   - Si se intenta importar un archivo previamente exportado, gr├íbelo como 97-2003 antes de importarlo. La resoluci├│n recomendada para las vistas de Sperant es de m├¡nimo 1024 x 728."
+      "body": "Se recomienda trabajar con Google Chrome, si bien el sistema trabaja con otros navegadores, algunas funcionalidades fueron diseÃ±adas especÃ­ficamente para Chrome. En el caso de las importaciones de archivos Excel se recomienda lo siguiente:   - Importar siempre archivos grabados como Excel versiÃ³n 97-2003.   - Si se intenta importar un archivo previamente exportado, grÃ¡belo como 97-2003 antes de importarlo. La resoluciÃ³n recomendada para las vistas de Sperant es de mÃ­nimo 1024 x 728."
     }
   ]
-=======
-{
-  "entries": [
-    {
-      "title": "Acerca de",
-      "url": "/acercade.html",
-      "date": null,
-      "categories": [
-
-      ],
-      "body": "   Sperant es un sistema desarrollado por EterniaSoft orientado a automatizar las operaciones de una inmobiliaria. Facilita el registro y seguimiento de clientes, desde que llegan hasta que independizan su propiedad.     Así mismo permite una eficiente gestión de sus proyectos, unidades, vendedores, contratos y procesos de adquisición.   Es una herramienta completa, con vistas muy sencillas de usar, y reportes que permitirán aprovechar al máximo toda la información ingresada en el sistema.     Sperant tiene además interfases con Sistema 10, el ERP más reconocido en la industria de construcción.     "
-    },
-    {
-      "title": "Aspectos generales",
-      "url": "/aspectosgenerales.html",
-      "date": null,
-      "categories": [
-
-      ],
-      "body": "  En esta sección de ayuda se muestran generalidades del sistema que ayudarán al usuario a mejorar su usabilidad.   Se describen los siguientes aspectos:   Navegación   Perfil   Actividades   Eventos   Mensajes   Búsqueda avanzada   Cerrar sesión"
-    },
-    {
-      "title": "Cerrar sesion",
-      "url": "/cerrarsesion.html",
-      "date": null,
-      "categories": [
-
-      ],
-      "body": "Para cerrar su sesión debe hacer click en el botón que se encuentra en la parte superior derecha de la pantalla. "
-    },
-    {
-      "title": "Welcome",
-      "url": "/index.html",
-      "date": null,
-      "categories": [
-
-      ],
-      "body": "  "
-    },
-    {
-      "title": "Navegacion",
-      "url": "/navegacion.html",
-      "date": null,
-      "categories": [
-
-      ],
-      "body": "  Algunas recomendaciones para la navegación en el sistema: El sistema se navega a través la siguiente estructura: Menú Principal, Sub-Menú, Secciones, Sub-Secciones.  El sistema también cuenta con diálogos y ventanas laterales que se muestran dependiendo de las opciones elegidas.  Breadcrumbs o \"migajas de pan\" son utilizadas para recordar la ruta por la que llegaron a la ventana actual.  En vistas que requieran mayor despliegue horizontal puedes utilizar el scroll lateral, o incluso puedes minimizar el menú principal.  "
-    },
-    {
-      "title": "Perfil",
-      "url": "/perfil.html",
-      "date": null,
-      "categories": [
-
-      ],
-      "body": "  Todo usuario puede editar su perfil. Para hacerlo sólo debe hacerle click al ícono en forma de persona en la parte superior derecha.    Al editar su perfil, deberá llenar todos los campos obligatorios, podrá seleccionar un archivo para actualizar su foto de perfil. "
-    },
-    {
-      "title": "Recomendaciones de uso",
-      "url": "/recomendacionesdeuso.html",
-      "date": null,
-      "categories": [
-
-      ],
-      "body": "Se recomienda trabajar con Google Chrome, si bien el sistema trabaja con otros navegadores, algunas funcionalidades fueron diseñadas específicamente para Chrome. En el caso de las importaciones de archivos Excel se recomienda lo siguiente:   - Importar siempre archivos grabados como Excel versión 97-2003.   - Si se intenta importar un archivo previamente exportado, grábelo como 97-2003 antes de importarlo. La resolución recomendada para las vistas de Sperant es de mínimo 1024 x 728."
-    }
-  ]
->>>>>>> 722c9b79336e1025e16eaee590ec5b36ba7640a0
 }
