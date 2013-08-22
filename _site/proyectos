@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Sperant - Ayuda - Mensajes</title>
+    <title>Sperant - Ayuda - Proyectos</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -53,29 +53,14 @@
           </ul>
         </div>
         <div class="span9">
-          <h1>Mensajes</h1>
+          # Proyectos
+---------------------------------------
+  El módulo de proyectos almacena todas las unidades de su inmobiliaria, organizados por proyectos y en algunos casos también por bloques. Le permitirá buscar y navegar a travez de sus unidades, saber lo ocurrido con cada una de ellas, asignarles vendedores o clientes, manejar listas de precios, emitir presupuestos, etc.
 
-<hr />
+  Para acceder a la lista de proyectos haga click en la opción "Proyectos" en el menú principal.
+  >![Proyectos](/images/mproyectos.png)
 
-<p>  Los mensajes son útiles para establecer una comunicación interna entre usuarios, pero también para enviar información al cliente. Los mensajes son también utilizados de manera automática para recibir solicitudes y confirmaciones de funcionalidades en el sistema, como las excepciones de presupuestos.</p>
-
-<p>  Para ingresar a la vista de mensajes haga click en el ícono en forma de carta en la parte superior derecha de la pantalla.</p>
-
-<blockquote><p><img src="/images/bmensajes.png" alt="Mensajes" /></p></blockquote>
-
-<p>  La siguiente es la estructura de la vista de mensajes:</p>
-
-<blockquote><p><img src="/images/mensajes.png" alt="Mensajes" /></p></blockquote>
-
-<p>  El usuario puede navegar entre mensajes enviados y mensajes recibidos usando las secciones en la parte derecha. La lista de mensajes muestra al remitente, asunto y una parte de su contenido.</p>
-
-<p>  Para ubicar mensajes puede utilizar el buscador en la parte derecha, le permite filtrar por partes del asunto o del contenido.</p>
-
-<p>  La creación de un mensaje se realiza con el botón de "Nuevo mensaje". Una vez en el dialogo de nuevo mensaje el usuario deberá asegurarse de colocar un asunto, contenido del mensaje y al menos un remitente, ya sea cliente o usuario.</p>
-
-<blockquote><p><img src="/images/mensaje.png" alt="Mensaje" /></p></blockquote>
-
-<p>  Una vez completos los datos del mensaje, el usuario presiona "Enviar" y se realiza el envío a todos los destinatarios. Los mensajes a usuarios aparecerán en sus bandejas de entrada, y los que van a clientes les llegarán a sus correos electronicos registrados. El mensaje se almacenará en la sección de enviados del remitente.</p>
+  
 
         </div>
       </div>

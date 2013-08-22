@@ -7,7 +7,7 @@
       "categories": [
 
       ],
-      "body": "  Sperant es un sistema desarrollado por EterniaSoft orientado a automatizar las operaciones de una inmobiliaria. Facilita el registro y seguimiento de clientes, desde que llegan hasta que independizan su propiedad.   AsÃ­ mismo permite una eficiente gestiÃ³n de sus proyectos, unidades, vendedores, contratos y procesos de adquisiciÃ³n.   Es una herramienta completa, con vistas muy sencillas de usar, y reportes que permitirÃ¡n aprovechar al mÃ¡ximo toda la informaciÃ³n ingresada en el sistema.         "
+      "body": "  Sperant es un sistema desarrollado por EterniaSoft orientado a automatizar las operaciones de una inmobiliaria. Facilita el registro y seguimiento de clientes, desde que llegan hasta que independizan su propiedad.   As├¡ mismo permite una eficiente gesti├│n de sus proyectos, unidades, vendedores, contratos y procesos de adquisici├│n.   Es una herramienta completa, con vistas muy sencillas de usar, y reportes que permitir├ín aprovechar al m├íximo toda la informaci├│n ingresada en el sistema.         "
     },
     {
       "title": "Actividades",
@@ -16,7 +16,7 @@
       "categories": [
 
       ],
-      "body": "  La secciÃ³n de actividades sirve de bitÃ¡cora o registro de todo lo ocurrido en el sistema. Esta secciÃ³n se encuentra en clientes, proyectos, unidades y usuarios.   Existen diferentes tipos de actividades, muchas relacionadas a interacciones entre objetos, ya sean visitas de un cliente a un proyecto, llamadas de un vendedor a un cliente, cambios realizados por un usuario a un proyecto, etc.   Este es un ejemplo de las actividades que se muestran en una unidad:    HabrÃ¡n periodos que no registren actividades, y el usuario podrÃ¡ navegar en esta secciÃ³n presionando el botÃ³n de \"Cargar mÃ¡s\"."
+      "body": "  La secci├│n de actividades sirve de bit├ícora o registro de todo lo ocurrido en el sistema. Esta secci├│n se encuentra en clientes, proyectos, unidades y usuarios.   Existen diferentes tipos de actividades, muchas relacionadas a interacciones entre objetos, ya sean visitas de un cliente a un proyecto, llamadas de un vendedor a un cliente, cambios realizados por un usuario a un proyecto, etc.   Este es un ejemplo de las actividades que se muestran en una unidad:    Habr├ín periodos que no registren actividades, y el usuario podr├í navegar en esta secci├│n presionando el bot├│n de \"Cargar m├ís\"."
     },
     {
       "title": "Aspectos generales",
@@ -25,7 +25,7 @@
       "categories": [
 
       ],
-      "body": "  En esta secciÃ³n de ayuda se muestran generalidades del sistema que ayudarÃ¡n al usuario a mejorar su usabilidad.   Se describen los siguientes aspectos:   NavegaciÃ³n   Perfil   Actividades   Eventos   Mensajes   BÃºsqueda avanzada   Cerrar sesiÃ³n"
+      "body": "  En esta secci├│n de ayuda se muestran generalidades del sistema que ayudar├ín al usuario a mejorar su usabilidad.   Se describen los siguientes aspectos:   Navegaci├│n   Perfil   Actividades   Eventos   Mensajes   B├║squeda avanzada   Cerrar sesi├│n"
     },
     {
       "title": "Busqueda avanzada",
@@ -34,7 +34,7 @@
       "categories": [
 
       ],
-      "body": "  La bÃºsqueda avanzada es una herramienta que le permite utilizar mÃºltiples filtros y condiciones para ubicar resultados especÃ­ficos.   Ã‰sta herramienta estÃ¡ disponible en los listados de proyectos, bloques, unidades, clientes y usuarios.   Para acceder a esta secciÃ³n, deberÃ¡ hacer click en el siguiente Ã­cono, en la parte superior derecha del listado en cuestiÃ³n:    La vista de bÃºsqueda avanzada tiene la siguiente estructura para todos los casos:    Lo primero es hacer click en \"Adicionar condiciÃ³n\" llenar cada parte de la condiciÃ³n. Si desea borrar la condiciÃ³n, sÃ³lo tiene que hacer click en el Ã­cono de eliminar. Para seguir adicionando condiciones basta con hacer click en \"Adicionar condiciÃ³n\" y podrÃ¡ llenar una condiciÃ³n sobre otra.    La mayorÃ­a de campos podrÃ¡n ser filtrados usando valores de texto, pero algunos campos tendrÃ¡n valores especÃ­ficos que sÃ³lo permitirÃ¡n seleccionar sus valores con una lista desplegable, por ejemplo al filtrar gÃ©nero en clientes:    Otros campos tendrÃ¡n valores tipo fecha y su valor serÃ¡ seleccionado de un calendario, por ejemplo la fecha de creaciÃ³n de un cliente:    Una vez que tega todas las condiciones deseadas presionar el botÃ³n buscar. La relaciÃ³n lÃ³gica entre las condiciones es un \"Y\", de esta manera se combinan y dan un resultado en la parte inferior de la vista. "
+      "body": "  La b├║squeda avanzada es una herramienta que le permite utilizar m├║ltiples filtros y condiciones para ubicar resultados espec├¡ficos.   ├ësta herramienta est├í disponible en los listados de proyectos, bloques, unidades, clientes y usuarios.   Para acceder a esta secci├│n, deber├í hacer click en el siguiente ├¡cono, en la parte superior derecha del listado en cuesti├│n:    La vista de b├║squeda avanzada tiene la siguiente estructura para todos los casos:    Lo primero es hacer click en \"Adicionar condici├│n\" llenar cada parte de la condici├│n. Si desea borrar la condici├│n, s├│lo tiene que hacer click en el ├¡cono de eliminar. Para seguir adicionando condiciones basta con hacer click en \"Adicionar condici├│n\" y podr├í llenar una condici├│n sobre otra.    La mayor├¡a de campos podr├ín ser filtrados usando valores de texto, pero algunos campos tendr├ín valores espec├¡ficos que s├│lo permitir├ín seleccionar sus valores con una lista desplegable, por ejemplo al filtrar g├®nero en clientes:    Otros campos tendr├ín valores tipo fecha y su valor ser├í seleccionado de un calendario, por ejemplo la fecha de creaci├│n de un cliente:    Una vez que tega todas las condiciones deseadas presionar el bot├│n buscar. La relaci├│n l├│gica entre las condiciones es un \"Y\", de esta manera se combinan y dan un resultado en la parte inferior de la vista. "
     },
     {
       "title": "Cerrar sesion",
@@ -43,7 +43,7 @@
       "categories": [
 
       ],
-      "body": "Para cerrar su sesiÃ³n debe hacer click en el botÃ³n que se encuentra en la parte superior derecha de la pantalla. "
+      "body": "Para cerrar su sesi├│n debe hacer click en el bot├│n que se encuentra en la parte superior derecha de la pantalla. "
     },
     {
       "title": "Eventos",
@@ -52,7 +52,7 @@
       "categories": [
 
       ],
-      "body": "  Los eventos ayudan al usuario a organizarse. Ya sea para reuniones con un cliente, o con personal interno de la empresa, o simplemente para recordarle que debe llamar a algÃºn cliente, facilitando el seguimiento.   El usuario podrÃ¡ ingresar haciendo click al Ã­cono de eventos en la parte superior derecha de la pantalla.    La vista de eventos es una lista o calendario vertical, podrÃ¡ navegar moviÃ©ndose hacia arriba o hacia abajo, o usando el campo de mes. Para regresar al dÃ­a actual sÃ³lo debe presionar el botÃ³n \"Hoy\".    Para ubicar rÃ¡pidamente un evento puede utilizar el buscador.   Para crear un evento presionar el botÃ³n nuevo, y llenar el formulario de evento.    Un evento puede estar relacionado a un proyecto, a una unidad especÃ­fica y/o a un cliente, pero tambiÃ©n puede ser un evento del usuario que no tiene relaciÃ³n a otros objetos y que le sirva para ordenar su agenda. Por esta razÃ³n los campos de proyecto, unidad y ciente son opcionales.   El evento permite tener invitados, que pueden ser clientes o usuarios internos del sistema. Al ser usuarios internos del sistema, les llegarÃ¡ un correo interno indicÃ¡ndoles que han sido invitados a dicho evento, y adicionalmente se les agendarÃ¡ el evento en su agenda. De ser un cliente simplemente les llegarÃ¡ un correo de invitaciÃ³n al evento. Las invitaciones son datos opcionales.   Los datos bÃ¡sicos del evento son su nombre, fecha de inicio, hora de inicio y la duraciÃ³n. Pero el usuario podrÃ¡ especificar tambiÃ©n el lugar donde se darÃ¡ el evento, y una pequeÃ±a descripciÃ³n sobre lo que se desarrollarÃ¡.    El usuario podrÃ¡ tambiÃ©n adicionar un recordatorio al evento, presionando el botÃ³n en forma de reloj al costado del botÃ³n de \"Crear evento\". El recordatorio no podrÃ¡ ser creado para fechas anteriores a la actual.   Finalmente para guardar el evento, presionar \"Crear evento\". Se actualizarÃ¡ la vista de eventos mostrando su nuevo evento en la misma.   Otra forma de crear un evento directamente en la vista de eventos es ubicar el mouse en el dÃ­a deseado y presionando el botÃ³n de \"Agregar evento\" que aparecerÃ¡. Esta forma llamarÃ¡ a la ventana de creaciÃ³n de evento pero tendrÃ¡ el dÃ­a preseleccionado.    Para editar algÃºn evento, ubique el evento en el calendario y hÃ¡gale click. Se mostrarÃ¡ una vista lateral del evento, para editar presione el Ã­cono en forma de lÃ¡piz. Desde esa misma vista lateral del evento podrÃ¡ asignar mÃ¡s invitados o eliminar el evento, clickeando en los Ã­conos correspondientes.    Al finalizar la ediciÃ³n presione \"Actualizar evento\". "
+      "body": "  Los eventos ayudan al usuario a organizarse. Ya sea para reuniones con un cliente, o con personal interno de la empresa, o simplemente para recordarle que debe llamar a alg├║n cliente, facilitando el seguimiento.   El usuario podr├í ingresar haciendo click al ├¡cono de eventos en la parte superior derecha de la pantalla.    La vista de eventos es una lista o calendario vertical, podr├í navegar movi├®ndose hacia arriba o hacia abajo, o usando el campo de mes. Para regresar al d├¡a actual s├│lo debe presionar el bot├│n \"Hoy\".    Para ubicar r├ípidamente un evento puede utilizar el buscador.   Para crear un evento presionar el bot├│n nuevo, y llenar el formulario de evento.    Un evento puede estar relacionado a un proyecto, a una unidad espec├¡fica y/o a un cliente, pero tambi├®n puede ser un evento del usuario que no tiene relaci├│n a otros objetos y que le sirva para ordenar su agenda. Por esta raz├│n los campos de proyecto, unidad y ciente son opcionales.   El evento permite tener invitados, que pueden ser clientes o usuarios internos del sistema. Al ser usuarios internos del sistema, les llegar├í un correo interno indic├índoles que han sido invitados a dicho evento, y adicionalmente se les agendar├í el evento en su agenda. De ser un cliente simplemente les llegar├í un correo de invitaci├│n al evento. Las invitaciones son datos opcionales.   Los datos b├ísicos del evento son su nombre, fecha de inicio, hora de inicio y la duraci├│n. Pero el usuario podr├í especificar tambi├®n el lugar donde se dar├í el evento, y una peque├▒a descripci├│n sobre lo que se desarrollar├í.    El usuario podr├í tambi├®n adicionar un recordatorio al evento, presionando el bot├│n en forma de reloj al costado del bot├│n de \"Crear evento\". El recordatorio no podr├í ser creado para fechas anteriores a la actual.   Finalmente para guardar el evento, presionar \"Crear evento\". Se actualizar├í la vista de eventos mostrando su nuevo evento en la misma.   Otra forma de crear un evento directamente en la vista de eventos es ubicar el mouse en el d├¡a deseado y presionando el bot├│n de \"Agregar evento\" que aparecer├í. Esta forma llamar├í a la ventana de creaci├│n de evento pero tendr├í el d├¡a preseleccionado.    Para editar alg├║n evento, ubique el evento en el calendario y h├ígale click. Se mostrar├í una vista lateral del evento, para editar presione el ├¡cono en forma de l├ípiz. Desde esa misma vista lateral del evento podr├í asignar m├ís invitados o eliminar el evento, clickeando en los ├¡conos correspondientes.    Al finalizar la edici├│n presione \"Actualizar evento\". "
     },
     {
       "title": "Welcome",
@@ -70,7 +70,7 @@
       "categories": [
 
       ],
-      "body": "  Los mensajes son Ãºtiles para establecer una comunicaciÃ³n interna entre usuarios, pero tambiÃ©n para enviar informaciÃ³n al cliente. Los mensajes son tambiÃ©n utilizados de manera automÃ¡tica para recibir solicitudes y confirmaciones de funcionalidades en el sistema, como las excepciones de presupuestos.   Para ingresar a la vista de mensajes haga click en el Ã­cono en forma de carta en la parte superior derecha de la pantalla.    La siguiente es la estructura de la vista de mensajes:    El usuario puede navegar entre mensajes enviados y mensajes recibidos usando las secciones en la parte derecha. La lista de mensajes muestra al remitente, asunto y una parte de su contenido.   Para ubicar mensajes puede utilizar el buscador en la parte derecha, le permite filtrar por partes del asunto o del contenido.   La creaciÃ³n de un mensaje se realiza con el botÃ³n de \"Nuevo mensaje\". Una vez en el dialogo de nuevo mensaje el usuario deberÃ¡ asegurarse de colocar un asunto, contenido del mensaje y al menos un remitente, ya sea cliente o usuario.    Una vez completos los datos del mensaje, el usuario presiona \"Enviar\" y se realiza el envÃ­o a todos los destinatarios. Los mensajes a usuarios aparecerÃ¡n en sus bandejas de entrada, y los que van a clientes les llegarÃ¡n a sus correos electronicos registrados. El mensaje se almacenarÃ¡ en la secciÃ³n de enviados del remitente."
+      "body": "  Los mensajes son ├║tiles para establecer una comunicaci├│n interna entre usuarios, pero tambi├®n para enviar informaci├│n al cliente. Los mensajes son tambi├®n utilizados de manera autom├ítica para recibir solicitudes y confirmaciones de funcionalidades en el sistema, como las excepciones de presupuestos.   Para ingresar a la vista de mensajes haga click en el ├¡cono en forma de carta en la parte superior derecha de la pantalla.    La siguiente es la estructura de la vista de mensajes:    El usuario puede navegar entre mensajes enviados y mensajes recibidos usando las secciones en la parte derecha. La lista de mensajes muestra al remitente, asunto y una parte de su contenido.   Para ubicar mensajes puede utilizar el buscador en la parte derecha, le permite filtrar por partes del asunto o del contenido.   La creaci├│n de un mensaje se realiza con el bot├│n de \"Nuevo mensaje\". Una vez en el dialogo de nuevo mensaje el usuario deber├í asegurarse de colocar un asunto, contenido del mensaje y al menos un remitente, ya sea cliente o usuario.    Una vez completos los datos del mensaje, el usuario presiona \"Enviar\" y se realiza el env├¡o a todos los destinatarios. Los mensajes a usuarios aparecer├ín en sus bandejas de entrada, y los que van a clientes les llegar├ín a sus correos electronicos registrados. El mensaje se almacenar├í en la secci├│n de enviados del remitente."
     },
     {
       "title": "Navegacion",
@@ -79,7 +79,7 @@
       "categories": [
 
       ],
-      "body": "  Algunas recomendaciones para la navegaciÃ³n en el sistema: El sistema se navega a travÃ©s la siguiente estructura: MenÃº Principal, Sub-MenÃº, Secciones, Sub-Secciones.  El sistema tambiÃ©n cuenta con diÃ¡logos y ventanas laterales que se muestran dependiendo de las opciones elegidas.  Breadcrumbs o \"migajas de pan\" son utilizadas para recordar la ruta por la que llegaron a la ventana actual.  En vistas que requieran mayor despliegue horizontal puedes utilizar el scroll lateral, o incluso puedes minimizar el menÃº principal.  "
+      "body": "  Algunas recomendaciones para la navegaci├│n en el sistema: El sistema se navega a trav├®s la siguiente estructura: Men├║ Principal, Sub-Men├║, Secciones, Sub-Secciones.  El sistema tambi├®n cuenta con di├ílogos y ventanas laterales que se muestran dependiendo de las opciones elegidas.  Breadcrumbs o \"migajas de pan\" son utilizadas para recordar la ruta por la que llegaron a la ventana actual.  En vistas que requieran mayor despliegue horizontal puedes utilizar el scroll lateral, o incluso puedes minimizar el men├║ principal.  "
     },
     {
       "title": "Perfil",
@@ -88,7 +88,16 @@
       "categories": [
 
       ],
-      "body": "  Todo usuario puede editar su perfil. Para hacerlo sÃ³lo debe hacerle click al Ã­cono en forma de persona en la parte superior derecha.    Al editar su perfil, deberÃ¡ llenar todos los campos obligatorios, podrÃ¡ seleccionar un archivo para actualizar su foto de perfil. "
+      "body": "  Todo usuario puede editar su perfil. Para hacerlo s├│lo debe hacerle click al ├¡cono en forma de persona en la parte superior derecha.    Al editar su perfil, deber├í llenar todos los campos obligatorios, podr├í seleccionar un archivo para actualizar su foto de perfil. "
+    },
+    {
+      "title": "Proyectos",
+      "url": "/proyectos.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "  El m├│dulo de proyectos almacena todas las unidades de su inmobiliaria, organizados por proyectos y en algunos casos tambi├®n por bloques. Le permitir├í buscar y navegar a travez de sus unidades, saber lo ocurrido con cada una de ellas, asignarles vendedores o clientes, manejar listas de precios, emitir presupuestos, etc.   Para acceder a la lista de proyectos haga click en la opci├│n \"Proyectos\" en el men├║ principal (S├│lo usuarios cuyos roles que tengan acceso a \"Ver proyectos\" tendr├ín esta opci├│n disponible).    Se mostrar├ín los proyectos, cada uno con ciertos datos visibles, como el nombre, tipo de proyecto, direcci├│n, avance de contrucci├│n y de ventas, imagen principal del proyecto, cantidad total de unidades y cantidad de unidades vendidas.    Si el usuario tiene acceso a editar proyectos, al pasar el puntero sobre uno de los proyectos se mostrar├í un men├║ de opciones justo al lado de la imagen del proyecto. Podr├í entrar a editar el proyecto, a asignar supervisores al proyecto, configurar detalles del proyecto, crear evento relacionado a proyecto, y finalmente eliminar el proyecto.    Al darle click a \"Unidades\" el usuario es llevado a la lista completa de unidades del proyecto. Al darle click a \"Unidades disponibles\" el usuario es llevado a la lista de unidades que tiene \"disponible\" como estado comercial.   Esta vista muestra los proyectos en una manera gr├ífica, para cambiar la vista a una lista de proyectos, hacer click en el ├¡cono de \"Cambiar a lista\" en la parte superior derecha de la pantalla. La lista se ve de la siguiente manera: "
     },
     {
       "title": "Recomendaciones de uso",
@@ -97,7 +106,7 @@
       "categories": [
 
       ],
-      "body": "Se recomienda trabajar con Google Chrome, si bien el sistema trabaja con otros navegadores, algunas funcionalidades fueron diseÃ±adas especÃ­ficamente para Chrome. En el caso de las importaciones de archivos Excel se recomienda lo siguiente:   - Importar siempre archivos grabados como Excel versiÃ³n 97-2003.   - Si se intenta importar un archivo previamente exportado, grÃ¡belo como 97-2003 antes de importarlo. La resoluciÃ³n recomendada para las vistas de Sperant es de mÃ­nimo 1024 x 728."
+      "body": "Se recomienda trabajar con Google Chrome, si bien el sistema trabaja con otros navegadores, algunas funcionalidades fueron dise├▒adas espec├¡ficamente para Chrome. En el caso de las importaciones de archivos Excel se recomienda lo siguiente:   - Importar siempre archivos grabados como Excel versi├│n 97-2003.   - Si se intenta importar un archivo previamente exportado, gr├íbelo como 97-2003 antes de importarlo. La resoluci├│n recomendada para las vistas de Sperant es de m├¡nimo 1024 x 728."
     }
   ]
 }

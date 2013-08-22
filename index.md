@@ -17,7 +17,7 @@ title: Welcome
 	D-	Notificaciones
 	E-	Eventos
 	F-	Mensajes
-	G-	Módulo de Propiedades
+	G-	Módulo de Proyectos
 		1.	Proyectos
 			a.	Listado de proyectos
 			b.	Creación de proyecto
