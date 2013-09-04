@@ -46,6 +46,15 @@
       "body": "Para cerrar su sesi├│n debe hacer click en el bot├│n que se encuentra en la parte superior derecha de la pantalla. "
     },
     {
+      "title": "Editar proyecto",
+      "url": "/editarproyecto.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "   El formulario de edici├│n de proyecto cuenta con las siguientes secciones:   Una vez que haya modificado la informaci├│n del proyecto que necesita, basta con hacer click en el bot├│n \"Actualizar Proyecto\".   Tambi├®n tiene un bot├│n para eliminar el proyecto, le mostrar├í previamente una confirmaci├│n, y al darle aceptar proceder├í a eliminar el proyecto y todo lo relacionado con el mismo (bloques, unidades, presupuestos, etc.).   Al presionar el bot├│n en forma de tuerca lo llevar├í a la vista de configuraci├│n de proyecto, pero no se guardar├ín los cambios que estuvo realizando en la vista de edici├│n de proyecto. Para m├ís informaci├│n sobre configuraci├│n de proyecto haga click en el siguiente link: Configurar proyecto.   Finalmente tiene un bot├│n \"Volver\" para regresar a la lista de proyectos.   Las siguientes son descripciones de las secciones que se pueden editar del proyecto:   B├ísicos   Esta secci├│n permite editar los datos m├ís generales y obligatorios del proyecto, tales como: nombre, direcci├│n, estado de construcci├│n, pa├¡s, departamento y distrito. Tabi├®n permite editar datos generales opcionales como: Costo total, descripci├│n, fechas real y estimada de construcci├│n, y avance de obra. El tipo de proyecto se muestra pero no puede ser editado, s├│lo se manipula en la creaci├│n del proyecto.   Complementos   Esta secci├│n muestra los complementos en las zonas comunes del proyecto, su manipulaci├│n es igual en proyectos, bloques y unidades. Para entender todo sobre complementos revise el siguiente link: Complementos.   Acabados   Esta secci├│n muestra los acabado en las zonas comunes del proyecto, su manipulaci├│n es igual en proyectos, bloques y unidades. Para entender todo sobre acabados revise el siguiente link: Acabados.   Galer├¡a   Esta secci├│n muestra las im├ígenes del proyecto, su manipulaci├│n es igual en proyectos, bloques y unidades. Para entender todo sobre galer├¡a de im├ígenes revise el siguiente link: Galer├¡a.   Planos   Esta secci├│n muestra los planos de las zonas comunes del proyecto, su manipulaci├│n es igual en proyectos, bloques y unidades. Para entender todo sobre planos revise el siguiente link: Planos.   Archivos   Esta secci├│n muestra los archivos adjuntos relacionados al proyecto, su manipulaci├│n es igual en proyectos, bloques y unidades. Para entender todo sobre archivos adjuntos de propiedades revise el siguiente link: Archivos de propiedades."
+    },
+    {
       "title": "Eventos",
       "url": "/eventos.html",
       "date": null,
