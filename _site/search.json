@@ -46,6 +46,24 @@
       "body": "Para cerrar su sesi├│n debe hacer click en el bot├│n que se encuentra en la parte superior derecha de la pantalla. "
     },
     {
+      "title": "Complementos",
+      "url": "/complementos.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "   E:"
+    },
+    {
+      "title": "Configurar proyecto",
+      "url": "/configurarproyecto.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "  Para entrar a esta vista el usuario debe hacer click en el ├¡cono en forma de tuerca, ubicado en la vista de proyecto, o en la lista de proyectos. Adem├ís el usuario deber├í tener permisos para editar proyectos.    El formulario de configuraci├│n de proyecto cuenta con los siguientes opciones: Tiempo de vida de un presupuesto Si un presupuesto vence, ya no puede ser utilizado para reservas o separaciones. Es necesario crear un nuevo presupuesto, pero es probable que el precio pueda haber cambiado si se aprob├│ una nueva lista de precios. Un presupuesto vencido se ver├í de color rojo en la lista de presupuestos en la unidad, tal como la imagen lo muestra:  Acci├│n a tomar cuando una reserva vence Algunas inmobiliarias podr├ín elegir que las unidades est├®n disponibles de manera autom├ítica cuando la reserva haya vencido, y otras preferir├ín quitar la reserva manualmente. Es importante recordar que si hay reservas en cola, estas entrar├ín autom├íticamente una vez que se haya vencido la reserva anterior de manera independiente a este campo de configuraci├│n, y esto seguir├í sucediendo hasta que ya no queden reservas en esa cola, en ese caso la ├║ltima reserva se mantendr├í o se quitar├í autom├íticamente al vencer dependiendo de este campo de configuraci├│n. Tiempo predeterminado para la duraci├│n de una reserva Es el tiempo que el sistema sugiere o define para la reserva en el momento en que se est├í creando la misma. El administrador puede elegir entre 1,2,3,4,5,6 y 7 d├¡as o puede dejarlo en Ninguno. El usuario al crear una reserva en dicho proyecto podr├í cambiar ese tiempo dependiendo de la siguiente opci├│n de configuraci├│n. Permitir que el usuario defina la duraci├│n de la reserva Si el administrador habilita al usuario para definir la duraci├│n de la reserva, al crear la reserva el sistema le sugerir├í un tiempo predeterminado para la misma, pero el usuario podr├í cambiarla por otro.  Tiempo de vida de procesos El sistema permite colocar un tiempo de vida para los procesos de separaci├│n, aprobaci├│n, venta y cancelaci├│n. Esta opci├│n permite definir un tiempo m├íximo de cu├ínto durar├¡a cada tipo de proceso en el proyecto. En cada tipo de proceso, al finalizar este tiempo sin que un proceso haya terminado, se prender├í una alerta que informar├í a los usuarios que el proceso est├í demorado, y les permita tomar acciones correctivas. Estos tiempos son s├│lo informativos, no bloquean ninguna acci├│n en el sistema."
+    },
+    {
       "title": "Editar proyecto",
       "url": "/editarproyecto.html",
       "date": null,
