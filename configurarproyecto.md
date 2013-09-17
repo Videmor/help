@@ -25,11 +25,11 @@ title: Configurar proyecto
 
   - **Tiempo predeterminado para la duración de una reserva**
 
-  	Es el tiempo que el sistema sugiere o define para la reserva en el momento en que se está creando la misma. El administrador puede elegir entre 1,2,3,4,5,6 y 7 días o puede dejarlo en Ninguno. El usuario al crear una reserva en dicho proyecto podrá cambiar ese tiempo dependiendo de la siguiente opción de configuración.
+  	Es el tiempo que el sistema sugiere o define para la reserva en el momento en que se está creando la misma. Al configurar se puede elegir entre 1,2,3,4,5,6 y 7 días o puede dejarlo en Ninguno. El usuario al crear una reserva en dicho proyecto podrá cambiar ese tiempo dependiendo de la siguiente opción de configuración.
 
   - **Permitir que el usuario defina la duración de la reserva**
 
-  	Si el administrador habilita al usuario para definir la duración de la reserva, al crear la reserva el sistema le sugerirá un tiempo predeterminado para la misma, pero el usuario podrá cambiarla por otro.
+  	Si se habilita al usuario para definir la duración de la reserva, al crear la reserva el sistema le sugerirá un tiempo predeterminado para la misma, pero el usuario podrá cambiarla por otro.
 
  	>![Creando reserva](/images/creareserva.png)	
 
