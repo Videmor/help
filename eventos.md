@@ -33,7 +33,7 @@ title: Eventos
   >![Agregar evento](/images/agregarevento.png)
 
   Para editar algún evento, ubique el evento en el calendario y hágale click. Se mostrará una vista lateral del evento, para editar presione el ícono en forma de lápiz. Desde esa misma vista lateral del evento podrá asignar más invitados o eliminar el evento, clickeando en los íconos correspondientes.
-  >![Vista lateral del evento](/images/slideevento.png)
+  >![Vista lateral del evento](/images/slideeventos.png)
 
   Al finalizar la edición presione "Actualizar evento".  
   >![Editando evento](/images/editaevento.png)
