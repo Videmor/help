@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "title": "Acabados",
+      "url": "/acabados.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "  Los acabados son utilizados en proyectos, bloques y unidades. Son caracter├¡sticas de construcci├│n o equipado de los inmuebles, est├ín orientados a ser utilizdos de manera interna o en plantillas de presupuestos y contratos para informar al cliente de los acabados y de las opciones que tiene, si se diera el caso.   Los acabados en un inmueble se ordenan por secciones. En un proyecto podemos tener \"patio principal\", \"zona de juegos\", \"recepci├│n\", etc. En un departamento podemos tener \"habitaci├│n principal\", \"sala\", \"ba├▒o de visitas\", etc. El usuario podra crear las secciones que prefiera, e ir adicionando los acabados que necesite en cada una de ellas.   La vista de edici├│n de acabados es la misma en proyectos, bloques y unidades. En este caso trabajaremos con la de proyectos.    Para empezar debemos crear secciones, haciendo click en el bot├│n de \"Nueva secci├│n\". Al hacerlo nos aparecer├í un campo para el nombre de nuestra nueva secci├│n, y un espacio para empezar a adicionar los acabados.    Los acabados se van escribiendo en el campo designado, e ir├ín apareciendo las opciones ya creadas en el sistema, el usuario podr├í hacer click en alguna de las opciones sin tener que terminar de escribir. Este campo permite colocar todos los acabados que necesite.    Si es que el usuario no encuentra la opci├│n de acabado deseada, puede seguir escribiendo y presionar enter o click en el indicador desplegable que dice \"Nuevo\".    El usuario tambi├®n tendr├í la posibilidad de adicionar acabados alternativos, ya sea con costo adicional o sin costo adicional. Para hacerlo deber├í hacer click en el link correspondiente dentro de su secci├│n. Al hacerlo aparecer├í para cada caso un campo de acabados adicionales, que siguen las mismas reglas de uso que el campo original de acabados.    Podr├í adicionar m├ís secciones, con diferentes acabados. al terminar s├│lo debe presionar el bot├│n de \"Actualizar\".    Al entrar a la vista de dicho inmueble, sus acabados se ver├ín listados separados por secci├│n, de la siguiente manera:    Los acabados alternativos estar├ín al final de la lista, tambi├®n por secci├│n."
+    },
+    {
       "title": "Acerca de",
       "url": "/acercade.html",
       "date": null,
