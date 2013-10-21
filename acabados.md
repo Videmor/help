@@ -32,3 +32,5 @@ title: Acabados
   >![Vista de acabados](/images/vistaacabados.png)  
 
   Los acabados alternativos estarán al final de la lista, también por sección.
+
+  Para administrar el maestro de acabados existentes podrá hacerlo desde la confiuguración del sistema, en la sección de acabados:  [Configurar acabados](configacabados.html).
