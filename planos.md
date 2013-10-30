@@ -27,7 +27,7 @@ title: Planos
 
   La opción de definir el plano como activo marcará el plano con un check color verde, esto sirve de seguimiento para el versionamiento de planos, y además mostrará el plano como disponible para ser impreso desde la vista del presupuesto. Si hubiese un cambio en las listas de metraje, relacionado a este inmueble, se le consultará para desactivar los planos, ya que podrían estar obsoletos.
 
-  La opción de eliminar el plano no solicita confirmación. Elimina el plano al hacer click.
+  La opción de eliminar el plano solicita confirmación. Hacer click en el icono en forma de tacho, y luego en el mensaje de confirmación para eliminar el plano.
 
   Podrá repetir los pasos para seguir subiendo planos a su lista.
   >![Lista de planos llena](/images/planosllena.png)   
