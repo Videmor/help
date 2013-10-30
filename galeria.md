@@ -6,12 +6,12 @@ title: Galeria de imagenes
 # Galería de imágenes
 ---------------------------------------
   
-  La galería de imágenes se encuentra en proyectos, bloques y uniddes. Tiene muchos propósitos, sirve para subir fotos del inmueble a medida que avanza su construcción, se puede elegir una imagen principal, y se pueden subir fotos para que sean utilizadas posteriormente en las plantillas de presupuestos y contratos.
+  La galería de imágenes se encuentra en proyectos, bloques y unidades. Tiene muchos propósitos, sirve para subir fotos del inmueble a medida que avanza su construcción, se puede elegir una imagen principal, y se pueden subir fotos para que sean utilizadas posteriormente en las plantillas de presupuestos y contratos.
 
   Al ingresar por primera vez encontrará la galería vacía.
   >![Galería vacía](/images/galeriavacia.png)
 
-  Al hacer click al área donde dice "Agregar nueva goto" aparecerá una ventana para ubicar la imagen que se subirá al sistema.
+  Al hacer click en el área que dice "Agregar nueva foto" aparecerá una ventana para ubicar la imagen que se subirá al sistema.
   >![Elegir imagen](/images/elegirimagen.png)
 
   La imagen tomará unos segundos en subir, mientras tanto se mostrará un círculo cargando.

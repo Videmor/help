@@ -124,7 +124,7 @@
       "categories": [
 
       ],
-      "body": "  La galer├¡a de im├ígenes se encuentra en proyectos, bloques y uniddes. Tiene muchos prop├│sitos, sirve para subir fotos del inmueble a medida que avanza su construcci├│n, se puede elegir una imagen principal, y se pueden subir fotos para que sean utilizadas posteriormente en las plantillas de presupuestos y contratos.   Al ingresar por primera vez encontrar├í la galer├¡a vac├¡a.    Al hacer click al ├írea donde dice \"Agregar nueva goto\" aparecer├í una ventana para ubicar la imagen que se subir├í al sistema.    La imagen tomar├í unos segundos en subir, mientras tanto se mostrar├í un c├¡rculo cargando.    En la parte inferior de la ventana un porcentaje indicando cuanto faltar├¡a para completar la subida.    Una vez subida, la imagen ya formar├í parte de la galer├¡a del inmueble. Al pasar el cursor por la imagen ver├í las opciones para elegirla como la imagen principal, o para eliminarla, s├│lo basta con hacer un click una de las opciones, no solicita confirmaci├│n.    Al marcar una imagen como principal, el check se marcar├í de color verde. En el caso de proyectos, ├®sa ser├í la imagen que se mostrar├í en la lista gr├ífica de proyectos.   Podr├í repetir los pasos para seguir subiendo im├ígenes a su galer├¡a. "
+      "body": "  La galer├¡a de im├ígenes se encuentra en proyectos, bloques y unidades. Tiene muchos prop├│sitos, sirve para subir fotos del inmueble a medida que avanza su construcci├│n, se puede elegir una imagen principal, y se pueden subir fotos para que sean utilizadas posteriormente en las plantillas de presupuestos y contratos.   Al ingresar por primera vez encontrar├í la galer├¡a vac├¡a.    Al hacer click en el ├írea que dice \"Agregar nueva foto\" aparecer├í una ventana para ubicar la imagen que se subir├í al sistema.    La imagen tomar├í unos segundos en subir, mientras tanto se mostrar├í un c├¡rculo cargando.    En la parte inferior de la ventana un porcentaje indicando cuanto faltar├¡a para completar la subida.    Una vez subida, la imagen ya formar├í parte de la galer├¡a del inmueble. Al pasar el cursor por la imagen ver├í las opciones para elegirla como la imagen principal, o para eliminarla, s├│lo basta con hacer un click una de las opciones, no solicita confirmaci├│n.    Al marcar una imagen como principal, el check se marcar├í de color verde. En el caso de proyectos, ├®sa ser├í la imagen que se mostrar├í en la lista gr├ífica de proyectos.   Podr├í repetir los pasos para seguir subiendo im├ígenes a su galer├¡a. "
     },
     {
       "title": "Welcome",
@@ -161,6 +161,15 @@
 
       ],
       "body": "  Todo usuario puede editar su perfil. Para hacerlo s├│lo debe hacerle click al ├¡cono en forma de persona en la parte superior derecha.    Al editar su perfil, deber├í llenar todos los campos obligatorios, podr├í seleccionar un archivo para actualizar su foto de perfil. "
+    },
+    {
+      "title": "Planos",
+      "url": "/planos.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "  Los planos se encuentran en proyectos, bloques y unidades. Su objetivo es permitir al usuario mantener versiones de los planos del inmueble, manejar planos activos o inactivos, tambi├®n permitir que estos planos sean utilizados desde presupuestos y el proceso de adquisici├│n, para su impresi├│n.   Al ingresar por primera vez encontrar├í la lista de planos vac├¡a.    El usuario podr├í subir planos en formato pdf o como imagen, los que necesite. Al hacer click en uno de los ├¡conos que dice \"Subir pdf\" o \"Subir imagen\" aparecer├í una ventana para ubicar el archivo que se subir├í al sistema.    El plano tomar├í unos segundos en subir, mientras tanto se mostrar├í un c├¡rculo cargando.    En la parte inferior de la ventana un porcentaje indicando cuanto faltar├¡a para completar la subida.    Una vez subido el plano, ya formar├í parte de la lista de planos del inmueble. En la parte derecha del plano ver├í tres opciones: imprimir plano, definir el plano como activo, eliminar plano. Bastar├í con hacer click a alguna de las opciones.    La opci├│n de impresi├│n abrir├í una nueva ventana en el navegador, y podr├í realizar la impresi├│n desde all├¡.   La opci├│n de definir el plano como activo marcar├í el plano con un check color verde, esto sirve de seguimiento para el versionamiento de planos, y adem├ís mostrar├í el plano como disponible para ser impreso desde la vista del presupuesto. Si hubiese un cambio en las listas de metraje, relacionado a este inmueble, se le consultar├í para desactivar los planos, ya que podr├¡an estar obsoletos.   La opci├│n de eliminar el plano no solicita confirmaci├│n. Elimina el plano al hacer click.   Podr├í repetir los pasos para seguir subiendo planos a su lista. "
     },
     {
       "title": "Proyectos",
