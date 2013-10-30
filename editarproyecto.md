@@ -41,7 +41,7 @@ title: Editar proyecto
 
   **Galería**
 
-  Esta sección muestra las imágenes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre galería de imágenes revise el siguiente link: [Galería](galería.html).  
+  Esta sección muestra las imágenes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre galería de imágenes revise el siguiente link: [Galería](galeria.html).  
 
   **Planos**
 
