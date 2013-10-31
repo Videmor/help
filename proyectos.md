@@ -27,7 +27,7 @@ title: Proyectos
 
   * [Configurar proyecto](configurarproyecto.html)
 
-  * [Crear evento de proyecto](eventoproyecto.html)
+  * [Crear evento](eventoproyecto.html)
 
   * [Eliminar proyecto](eliminarproyecto.html)
 
