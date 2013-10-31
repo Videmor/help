@@ -37,6 +37,15 @@
       "body": "  La galer├¡a de archivos se encuentra en proyectos, bloques y unidades. Tiene muchos prop├│sitos, sirve para subir documentos relacionados a la construcci├│n del inmueble, los permisos, etc. Los archivos estar├ín disponibles para ser vistos desde el proceso de adquisici├│n de los inmuebles.   Al ingresar por primera vez encontrar├í la galer├¡a vac├¡a.    Al hacer click en el ├írea que dice \"Agregar nuevo archivo\" aparecer├í una ventana para ubicar el archivo que se subir├í al sistema.    El archivo tomar├í unos segundos en subir, mientras tanto se mostrar├í un c├¡rculo cargando.    En la parte inferior de la ventana un porcentaje indicando cuanto faltar├¡a para completar la subida.    Una vez subido el archivo, ya formar├í parte de la lista de archivo del inmueble. En la parte derecha del plano ver├í tres opciones: imprimir archivo, definir el archivo como activo, eliminar archivo. Bastar├í con hacer click a alguna de las opciones.    La opci├│n de impresi├│n abrir├í una nueva ventana en el navegador, y podr├í realizar la impresi├│n desde all├¡.   La opci├│n de definir el archivo como activo marcar├í el archivo con un check color verde, esto mostrar├í el archivo como disponible para ser impreso desde el proceso de adquisici├│n relacionado a el inmueble.   La opci├│n de eliminar el archivo solicita confirmaci├│n. Hacer click en el icono en forma de tacho, y luego en el mensaje de confirmaci├│n para eliminar el archivo.   Podr├í repetir los pasos para seguir subiendo planos a su lista. "
     },
     {
+      "title": "Asignar supervisores",
+      "url": "/asignarsupervisores.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "  Los supervisores son los usuarios que recibir├ín notificaciones relacionadas a los inmuebles, tambi├®n ser├ín quienes dan aprobaciones para excepciones y descuentos en los proyectos. Los supervisores se asignan por proyecto, y se requiere de accesos para hacerlo.   Para iniciar la asignaci├│in de supervisores mover el puntero del mouse sobre el proyecto en cuesti├│n y hacer click en el segundo ├¡cono del lado derecho.    Si no se asignaron supervisores previamente el campo con el mismo nombre saldr├í vac├¡o.    Para asignar un supervisor basta con hacer click en el campo y esperar que se muestre la lista, finalmente elegir de la lista. El campo tiene propiedades de b├║squeda, por lo que puede tipear parte del nombre del supervisor, y la lista desplegable se ir├í filtrando. Los supervisores que salen en la lista son los que tienen el acceso \"Trabajar como supervisor\" habilitado en la configuraci├│n de roles. Podr├í repetir este paso para asignar m├ís supervisores al proyecto.    Para quitar un supervisor puede hacerlo presionando la \"x\" en cada uno de los supervisores del campo. "
+    },
+    {
       "title": "Aspectos generales",
       "url": "/aspectosgenerales.html",
       "date": null,
