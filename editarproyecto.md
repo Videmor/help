@@ -17,37 +17,41 @@ title: Editar proyecto
   	- Planos
   	- Archivos
 
-  Una vez que haya modificado la información del proyecto que necesita, basta con hacer click en el botón "Actualizar Proyecto".
+  **Botones superiores**
 
-  También tiene un botón para eliminar el proyecto, le mostrará previamente una confirmación, y al darle aceptar procederá a eliminar el proyecto y todo lo relacionado con el mismo (bloques, unidades, presupuestos, etc.). Para más información revise el sigueinte enlace: [Eliminar proyecto](eliminarproyecto.html)
+  >Una vez que haya modificado la información del proyecto que necesita, basta con hacer click en el botón "Actualizar Proyecto".
 
-  Al presionar el botón en forma de tuerca lo llevará a la vista de configuración de proyecto, pero no se guardarán los cambios que estuvo realizando en la vista de edición de proyecto. Para más información sobre configuración de proyecto haga click en el siguiente link: [Configurar proyecto](configurarproyecto.html).
+  >También tiene un botón para eliminar el proyecto, le mostrará previamente una confirmación, y al darle aceptar procederá a eliminar el proyecto y todo lo relacionado con el mismo (bloques, unidades, presupuestos, etc.). Para más información revise el sigueinte enlace: [Eliminar proyecto](eliminarproyecto.html)
 
-  Finalmente tiene un botón "Volver" para regresar a la lista de proyectos.
+  >Al presionar el botón en forma de tuerca lo llevará a la vista de configuración de proyecto, pero no se guardarán los cambios que estuvo realizando en la vista de edición de proyecto. Para más información sobre configuración de proyecto haga click en el siguiente link: [Configurar proyecto](configurarproyecto.html).
+
+  >Finalmente tiene un botón "Volver" para regresar a la lista de proyectos.
+
+  **Secciones**
 
   Las siguientes son descripciones de las secciones que se pueden editar del proyecto:
 
-  **Básicos**
+  - Básicos
 
-  Esta sección permite editar los datos más generales y obligatorios del proyecto, tales como: nombre, dirección, estado de construcción, país, departamento y distrito. Tabién permite editar datos generales opcionales como: Costo total, descripción, fechas real y estimada de construcción, y avance de obra. El tipo de proyecto se muestra pero no puede ser editado, sólo se manipula en la creación del proyecto.
+    Esta sección permite editar los datos más generales y obligatorios del proyecto, tales como: nombre, dirección, estado de construcción, país, departamento y distrito. Tabién permite editar datos generales opcionales como: Costo total, descripción, fechas real y estimada de construcción, y avance de obra. El tipo de proyecto se muestra pero no puede ser editado, sólo se manipula en la creación del proyecto.
 
-  **Complementos**
+  - Complementos
 
-  Esta sección muestra los complementos en las zonas comunes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre complementos revise el siguiente link: [Complementos](complementos.html).
+    Esta sección muestra los complementos en las zonas comunes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre complementos revise el siguiente link: [Complementos](complementos.html).
 
-  **Acabados**
+  - Acabados
   
-  Esta sección muestra los acabado en las zonas comunes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre acabados revise el siguiente link: [Acabados](acabados.html).
+    Esta sección muestra los acabado en las zonas comunes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre acabados revise el siguiente link: [Acabados](acabados.html).
 
-  **Galería**
+  - Galería
 
-  Esta sección muestra las imágenes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre galería de imágenes revise el siguiente link: [Galería](galeria.html).  
+    Esta sección muestra las imágenes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre galería de imágenes revise el siguiente link: [Galería](galeria.html).  
 
-  **Planos**
+  - Planos
 
-  Esta sección muestra los planos de las zonas comunes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre planos revise el siguiente link: [Planos](planos.html).
+    Esta sección muestra los planos de las zonas comunes del proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre planos revise el siguiente link: [Planos](planos.html).
 
-  **Archivos**
+  - Archivos
 
-  Esta sección muestra los archivos adjuntos relacionados al proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre archivos adjuntos de propiedades revise el siguiente link: [Archivos de propiedades](archivospropiedades.html).
+    Esta sección muestra los archivos adjuntos relacionados al proyecto, su manipulación es igual en proyectos, bloques y unidades. Para entender todo sobre archivos adjuntos de propiedades revise el siguiente link: [Archivos de propiedades](archivospropiedades.html).
 

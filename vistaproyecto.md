@@ -25,21 +25,21 @@ title: Vista de proyecto
   
   >![Botones superiores](/images/proyectosuperiores.png)
 
-  En la parte superior derecha de la vista tiene 6 botones, cada uno requiere de accesos para poder ser visualizados.
+  >En la parte superior derecha de la vista tiene 6 botones, cada uno requiere de accesos para poder ser visualizados.
 
-  El primero permite que al usuario asignar supervisores al proyecto en cuestión. Para verlo necesita acceso a editar el proyecto. Para más información revisar el siguiente enlace: [Asignar supervisores](asignarsupervisores.html).
+  >El primero permite que al usuario asignar supervisores al proyecto en cuestión. Para verlo necesita acceso a editar el proyecto. Para más información revisar el siguiente enlace: [Asignar supervisores](asignarsupervisores.html).
 
-  El botón en forma de signo de dolar permite la creación de una nueva lista de precios. Para verlo necesita acceso a editar el proyecto. Para más información revise el siguiente enlace: [Nueva lista de precios](crealistadeprecios.html)
+  >El botón en forma de signo de dolar permite la creación de una nueva lista de precios. Para verlo necesita acceso a editar el proyecto. Para más información revise el siguiente enlace: [Nueva lista de precios](crealistadeprecios.html)
 
-  El tercer botón, en forma de regla, permite la creación de una nueva lista de metraje. Para verlo necesita acceso a editar el proyecto. Para más información revise el siguiente enlace: [Nueva lista de metraje](crealistademetraje.html)
+  >El tercer botón, en forma de regla, permite la creación de una nueva lista de metraje. Para verlo necesita acceso a editar el proyecto. Para más información revise el siguiente enlace: [Nueva lista de metraje](crealistademetraje.html)
 
-  El botón en forma de lapiz permite editar el proyecto, teniendo dichos accesos. Para más información revise el siguiente enlace: [Editar proyecto](editarproyecto.html)
+  >El botón en forma de lapiz permite editar el proyecto, teniendo dichos accesos. Para más información revise el siguiente enlace: [Editar proyecto](editarproyecto.html)
 
-  También tiene un botón para eliminar el proyecto, si tiene los accesos a eliminar proyecto, le mostrará previamente una confirmación, y al darle aceptar procederá a eliminar el proyecto y todo lo relacionado con el mismo (bloques, unidades, presupuestos, etc.). Para más información revise el siguiente enlace: [Eliminar proyecto](eliminarproyecto.html)
+  >También tiene un botón para eliminar el proyecto, si tiene los accesos a eliminar proyecto, le mostrará previamente una confirmación, y al darle aceptar procederá a eliminar el proyecto y todo lo relacionado con el mismo (bloques, unidades, presupuestos, etc.). Para más información revise el siguiente enlace: [Eliminar proyecto](eliminarproyecto.html)
 
-  Al presionar el botón en forma de tuerca, si tiene los accesos a configurar proyecto, lo llevará a la vista de configuración de proyecto. Para más información sobre configuración de proyecto haga click en el siguiente link: [Configurar proyecto](configurarproyecto.html).
+  >Al presionar el botón en forma de tuerca, si tiene los accesos a configurar proyecto, lo llevará a la vista de configuración de proyecto. Para más información sobre configuración de proyecto haga click en el siguiente link: [Configurar proyecto](configurarproyecto.html).
 
-  Finalmente tiene un botón "Volver" para regresar a la lista de proyectos.
+  >Finalmente tiene un botón "Volver" para regresar a la lista de proyectos.
 
   **Secciones**
 
