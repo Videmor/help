@@ -124,7 +124,7 @@
       "categories": [
 
       ],
-      "body": "  Al crear una nueva lista de precios se visualizar├í una lista de todas las unidades, y en cada registro un    La vista de proyecto cuenta con las siguientes secciones:"
+      "body": "  Al crear una nueva lista de precios se visualizar├í una lista de todas las unidades, y en cada registro su c├│digo, nombre, sus dos ├║ltimos precios de listas aprobadas, y finalmente un espacio para ingresar el nuevo precio para dicha unidad.    De no tener listas de precios anteriores aprobadas, aparecer├ín guiones en cada registro.   Las unidades est├ín ordenadas por su c├│digo, y puede usar el scroll de la ventana para ver las unidades que est├ín m├ís abajo en la lista.   Para regresar sin guardar los precios presione el bot├│n \"Volver\".   Una vez que haya terminado de definir los nuevos precios para las unidades, presione el bot├│n \"Crear lista de precio\", y la nueva lista ser├í grabada. Aparecer├í la vista de la lista de precios en cuesti├│n. Para m├ís informaci├│n sobre las listas de precios: Listas de precios."
     },
     {
       "title": "Eventos",
