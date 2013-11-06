@@ -19,7 +19,7 @@ title: Editar proyecto
 
   Una vez que haya modificado la información del proyecto que necesita, basta con hacer click en el botón "Actualizar Proyecto".
 
-  También tiene un botón para eliminar el proyecto, le mostrará previamente una confirmación, y al darle aceptar procederá a eliminar el proyecto y todo lo relacionado con el mismo (bloques, unidades, presupuestos, etc.).
+  También tiene un botón para eliminar el proyecto, le mostrará previamente una confirmación, y al darle aceptar procederá a eliminar el proyecto y todo lo relacionado con el mismo (bloques, unidades, presupuestos, etc.). Para más información revise el sigueinte enlace: [Eliminar proyecto](eliminarproyecto.html)
 
   Al presionar el botón en forma de tuerca lo llevará a la vista de configuración de proyecto, pero no se guardarán los cambios que estuvo realizando en la vista de edición de proyecto. Para más información sobre configuración de proyecto haga click en el siguiente link: [Configurar proyecto](configurarproyecto.html).
 

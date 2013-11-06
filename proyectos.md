@@ -7,7 +7,7 @@ title: Proyectos
 ---------------------------------------
   El módulo de proyectos almacena todas las unidades de su inmobiliaria, organizados por proyectos y en algunos casos también por bloques. Le permitirá buscar y navegar a travez de sus unidades, saber lo ocurrido con cada una de ellas, asignarles vendedores o clientes, manejar listas de precios, emitir presupuestos, etc.
 
-  Para acceder a la lista de proyectos haga click en la opción "Proyectos" en el menú principal (Sólo usuarios cuyos roles que tengan acceso a "Ver proyectos" tendrán esta opción disponible).
+  Para acceder a la lista de proyectos haga click en la opción "Proyectos" en el menú principal (Sólo usuarios cuyos roles que tengan acceso a "Ver proyecto" tendrán esta opción disponible).
   >![Proyectos](/images/mproyectos.png)
 
   Se mostrarán los proyectos, cada uno con ciertos datos visibles, como el nombre, tipo de proyecto, dirección, avance de contrucción y de ventas, imagen principal del proyecto, cantidad total de unidades y cantidad de unidades vendidas.
@@ -27,13 +27,13 @@ title: Proyectos
 
   * [Configurar proyecto](configurarproyecto.html)
 
-  * [Crear evento](eventoproyecto.html)
+  * [Crear evento](crearevento.html)
 
   * [Eliminar proyecto](eliminarproyecto.html)
 
   Al darle click al link de "Unidades" el usuario es llevado a la lista completa de unidades del proyecto. Al darle click al link de "Unidades disponibles" el usuario es llevado a la lista de unidades que tiene "disponible" como estado comercial.
 
-  Para ingresar a la vista del proyecto y ver más información sobre éste, como sus complementos, acabados, listas de precios y metraje, bastará con haer click al botón "Ver Proyecto". Para ir a la ayuda sobre Vista de proyecto click en el siguiente link: [Ver proyecto](verproyecto.html).
+  Para ingresar a la vista del proyecto y ver más información sobre éste, como sus complementos, acabados, listas de precios y metraje, bastará con haer click al botón "Ver Proyecto". Para ir a la ayuda sobre Vista de proyecto click en el siguiente link: [Vista proyecto](vistaproyecto.html).
 
   Para crear un proyecto desde cero, haga click en "Nuevo Proyecto", el sistema lo llevará a un formulario para llenar los datos del proyecto que desea generar. Más información en [Nuevo proyecto](nuevoproyecto.html).
 
