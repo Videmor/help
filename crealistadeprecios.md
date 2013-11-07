@@ -16,6 +16,6 @@ title: Nueva lista de precios
 
   Para regresar sin guardar los precios presione el botón "Volver".
 
-  Una vez que haya terminado de definir los nuevos precios para las unidades, presione el botón "Crear lista de precio", y la nueva lista será grabada. Aparecerá la vista de la lista de precios en cuestión. Para más información sobre las listas de precios: [Listas de precios](listadeprecios.html).
+  Una vez que haya terminado de definir los nuevos precios para las unidades, presione el botón "Crear lista de precio", y la nueva lista será grabada. Aparecerá la vista de la lista de precios en cuestión. Para más información sobre las listas de precios: [Listas de precios](listasdeprecios.html).
 
   

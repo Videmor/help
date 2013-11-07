@@ -181,6 +181,15 @@
       "body": ""
     },
     {
+      "title": "Listas de precios",
+      "url": "/listasdeprecios.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "  Las listas de precios permiten a los gerentes de proyecto cambiar los precios de las unidades de manera sistem├ítica. Les permite comparar precios anteriores de manera f├ícil, y pasar las listas de precios por aprobaci├│n antes de estar vigentes.   La vista de listas de precios muestra las listas que se han creado para el proyecto en cuesti├│n. S├│lo una podr├í mostrarse como vigente o aprobada, la que tiene el check color verde.    El proyecto puede tambi├®n no tener ninguna lista de precios vigente. En ese caso la vista completa y lateral de sus unidades mostrar├¡a el precio actual como 0. Tal como lo muestra la siguiente imagen:    Un usuario con acceso a \"Editar proyecto\" podr├í crear nuevas listas de precios haciendo click en el bot├│n con signo de dolar en la parte superior de la vista de proyecto. Para m├ís informaci├│n sobre la generaci├│n de listas de precios haga click al siguiente link: Crear lista de precio    Un usuario con acceso a \"Editar proyecto\" podr├í editar listas de precios. Para m├ís informaci├│n sobre la generaci├│n de listas de precios haga click al siguiente link: Crear lista de precio   Es importante resaltar que una lista de precios ya no puede ser editada si tiene presupuestos que est├®n utilizando dichos precios, el usuario deber├í deshabilitar la lista de precios y crear una nueva. Sin embargo el presupuesto creado previamente mantendr├í el precio de la lista de precios anterior.   El sistema no permitir├í que el usuario haga una reserva o separaci├│n con un presupuesto que tenga precios de una lista de precios no vigente, pero el usuario tendr├í la posibilidad de solicitar una excepci├│n al supervisor del proyecto. Para m├ís informaci├│n sobre las excepciones haga click al siguiente link: Manejo de excepciones   Un usuario con acceso a \"Aprobar lista de precios\" podr├í aprobar o desaprobar una lista de precios."
+    },
+    {
       "title": "Mensajes",
       "url": "/mensajes.html",
       "date": null,
