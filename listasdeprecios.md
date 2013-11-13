@@ -50,6 +50,6 @@ title: Listas de precios
 
   Exportar:
 
-  La última opción por lista de precios es la exportación a Excel. Cada lista de precios podrá ser exportada en un formato xls. Los datos exportados serán: Los nombres de las unidades, bloque al que pertenecen, el precio asignado, un código para la lista de precios, el creador de la lista, el aprobador de la lista, la fecha de aprobación, y el estado de la lista.
+  La última opción por lista de precios es la exportación a Excel. Un usuario con acceso a "Exportar lista de precios" podrá realizar esta operación.Cada lista de precios podrá ser exportada en un formato xls. Los datos exportados serán: Los nombres de las unidades, bloque al que pertenecen, el precio asignado, un código para la lista de precios, el creador de la lista, el aprobador de la lista, la fecha de aprobación, y el estado de la lista.
 
 >![Lista de precios exportada](/images/exelprecios.png)        

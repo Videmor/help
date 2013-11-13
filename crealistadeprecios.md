@@ -6,7 +6,7 @@ title: Nueva lista de precios
 # Nueva lista de precios
 ---------------------------------------
   
-  Al crear una nueva lista de precios se visualizará una lista de todas las unidades, y en cada registro su código, nombre, sus dos últimos precios de listas aprobadas, y finalmente un espacio para ingresar el nuevo precio para dicha unidad. Al crear una nueva lista de precios tendrá el estado "Pendiente".
+  Un usuario con acceso a "Editar proyecto" podrá realizar esta operación. Al crear una nueva lista de precios se visualizará una lista de todas las unidades, y en cada registro su código, nombre, sus dos últimos precios de listas aprobadas, y finalmente un espacio para ingresar el nuevo precio para dicha unidad. Al crear una nueva lista de precios tendrá el estado "Pendiente".
 
   >![Nueva lista de precios](/images/nuevalistaprecio.png)
   
