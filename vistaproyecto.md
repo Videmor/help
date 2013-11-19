@@ -71,11 +71,11 @@ title: Vista de proyecto
 
   - Lista de metraje:
 
-    Las listas de metraje definen un área libre y un área techada para cada unidad. Permiten que un gestor de proyectos genere nuevas listas de metraje cuando sea necesario. Están relacionadas a los planos, y sólo una puede estar activa. Para entender todo sobre listas de metraje revise el siguiente link: [Listas de metraje](listasmetraje.html).
+    Las listas de metraje definen un área libre y un área techada para cada unidad. Permiten que un gestor de proyectos genere nuevas listas de metraje cuando sea necesario. Están relacionadas a los planos, y sólo una puede estar activa. Para entender todo sobre listas de metraje revise el siguiente link: [Listas de metraje](listasdemetraje.html).
 
   - Lista de precios:
 
-    Las listas de precios permiten definir precios para diferentes periodos de venta del proyecto. Un gestor de proyectos puede publicar nuevas listas de precios cuando sea necesario, sólo una puede estar activa. Para entender todo sobre listas de precios revise el siguiente link: [Listas de precios](listasprecios.html).
+    Las listas de precios permiten definir precios para diferentes periodos de venta del proyecto. Un gestor de proyectos puede publicar nuevas listas de precios cuando sea necesario, sólo una puede estar activa. Para entender todo sobre listas de precios revise el siguiente link: [Listas de precios](listasdeprecios.html).
 
   - Supervisores:
 
