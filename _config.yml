@@ -1,3 +1,4 @@
+source: .
 destination: ./site
 safe: true
 lsi: false
