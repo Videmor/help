@@ -1,6 +1,5 @@
 source: .
-destination: ./site
+destination: ./_site
 safe: true
 lsi: false
 pygments: true
-baseurl: /help
