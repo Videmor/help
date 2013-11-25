@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Sperant - Ayuda - Manejo de excepciones</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="/assets/css/sperant.css" rel="stylesheet">
+    <link href="/assets/css/styles.css" rel="stylesheet">
+    <link href="/assets/css/sperant-responsive.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+      </script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a href="/" class="brand"><img src="http://sperant.com/assets/logo-sperant-9e6e10d0126d3c8aaa9fa01caddb5a06.png"></a>
+          <ul class="nav pull-right">
+            <li><a href="http://sperant.com/">Sperant</a></li>
+            <li><a href="http://sperant.com/#about">Acerca de</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="span3">
+          <ul id="menu" class="nav nav-list" data-spy="affix">
+            <li class="nav-header"><strong>SPERANT - AYUDA</strong></li>
+            <li data-section="1"><a href="/acercade.html">Acerca de Sperant</a></li>
+            <li data-section="2"><a href="/recomendacionesdeuso.html">Recomendaciones de uso</a></li>
+            <li data-section="3"><a href="/aspectosgenerales.html">Aspectos generales</a></li>
+            <!--li data-section="4"><a href="/">Notificaciones</a></li-->
+            <li data-section="5"><a href="/proyectos.html">Módulo de Proyectos</a></li>
+            <li data-section="6"><a href="/clientes.html">Módulo de Clientes</a></li>
+            <li data-section="7"><a href="/adquisicion.html">Módulo de Adquisición</a></li>
+            <li data-section="8"><a href="/vendedores.html">Módulo de Vendedores</a></li>
+            <li data-section="9"><a href="/usuarios.html">Módulo de Usuarios</a></li>
+            <li data-section="10"><a href="/administracion.html">Módulo de Administración</a></li>
+            <li data-section="11"><a href="/reportes.html">Módulo de Reportes</a></li>
+            <li class="nav-header"><strong>SOPORTE</strong></li>
+            <li><a href="mailto:soporte@sperant.com">Contacto de soporte</a></li>
+          </ul>
+        </div>
+        <div class="span9">
+          <h1 id='manejo_de_excepciones'>Manejo de excepciones</h1>
+<hr />
+<p>Se le llama excepciones a aquellas situaciones específicas en las que se trabaja con un presupuesto que no tiene las unidades asignadas o el precio definido, tal como los asignó el gerente de proyecto u otra persona con permisos de edición de unidades y precios.</p>
+
+<p>Cuando se estas situaciones, el usuario no podrá efectuar una reserva o una separación del presupuesto en cuestión, y por ende no podrá proseguir con el proceso de adquisición.</p>
+
+<p>Sin embargo el usuario tiene la opción de enviar una solicitud de excepción. Al intentar realizar la reserva o separación, le aparecerá un mensaje indicando la razón por la cual no podrá continuar haciéndolo, pero además le aparecerá la opción de enviar una solicitud de excepción a los supervisores del proyecto relacionado.</p>
+
+<p>Las tres situaciones en las que se darían estas circunstacias son las siguientes:</p>
+
+<p>- Se crea un presupuesto, y en un momento posterior se aprueba una nueva lista de precios que tiene un precio diferente para las unidades relacionadas a dicho presupuesto. Para más información sobre las listas de precios, consulte el siguiente enlace: <a href='listasdeprecios.html'>Listas de precios</a>.</p>
+
+<p>&gt;<img alt='Mensaje de excepcion' src='/images/mensajeexcepcion1.png' /></p>
+
+<p>- Se crea un presupuesto, y en un momento posterior se pre-asigna una unidad a una de las unidades relacionadas a dicho presupuesto. Para más información acerca de la pre-asignación de unidades, consulte el siguiente enlace: <a href='preasignarunidades.html'>Pre-asignar unidades</a>.</p>
+
+<p>&gt;<img alt='Mensaje de excepcion' src='/images/mensajeexcepcion2.png' /></p>
+
+<p>- Si se dan las dos situaciones anteriores juntas.</p>
+
+<p>&gt;<img alt='Mensaje de excepcion' src='/images/mensajeexcepcion3.png' /></p>
+
+<p>Al enviar la solicitud de excepción, los supervisores serán notificados con un mensaje interno. Si el proyecto no tuviese un supervisor, aparecerá un mensaje indicándolo, el usuario deberá solicitar que el administrador asigne uno para manejar este tipo de excepciones.</p>
+
+<p>&gt;<img alt='Sin supervisor' src='/images/sinsupervisor.png' /></p>
+
+<p>Al tener un presupuesto con una solicitud pendiente de excepción, se tendrá una pequeña marca en dicho presupuesto, en la lista de presupuestos, como lo muestra la siguiente imagen:</p>
+
+<p>&gt;<img alt='Excepcion pendiente' src='/images/excepcionpendiente.png' /></p>
+
+<p>El mensaje interno que le llega al supervisor contiene un enlace directo al presupuesto. El supervisor podrá hacer click en el enlace y visitar el presupuesto. Una vez en el presupuesto, el supervisor tendrá la opción de aceptar o rechazar la solicitud de excepción.</p>
+
+<p>&gt;<img alt='Solicitud de excepcion' src='/images/solicitudexcepcion.png' /></p>
+
+<p>Cuando el supervisor apruebe o rechace la solicitud de excepción, le llegará un mensaje al usuario que solicitó dicha excepción, indicando el resultado.</p>
+
+<p>Si la excepción fue aprobada, se le verá con una marca en la lista de presupuestos, tal como lo muestra la siguiente imagen:</p>
+
+<p>&gt;<img alt='Excepcion aprobada' src='/images/excepcionaprobada.png' /></p>
+
+<p>En ese momento el usuario podrá efectuar la reserva o separación de dicho presupuesto. Si el supervisor hubiera rechazado la excepción, el usuario seguiría sin poder efectuar la reserva o separación.</p>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+    </script>
+
+    <script>
+      $('#menu [data-section=""]').addClass('active');
+    </script>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', '']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </body>
+</html>
+

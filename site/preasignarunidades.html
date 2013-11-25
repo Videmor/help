@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Sperant - Ayuda - Pre-asignar unidades</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="/assets/css/sperant.css" rel="stylesheet">
+    <link href="/assets/css/styles.css" rel="stylesheet">
+    <link href="/assets/css/sperant-responsive.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+      </script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a href="/" class="brand"><img src="http://sperant.com/assets/logo-sperant-9e6e10d0126d3c8aaa9fa01caddb5a06.png"></a>
+          <ul class="nav pull-right">
+            <li><a href="http://sperant.com/">Sperant</a></li>
+            <li><a href="http://sperant.com/#about">Acerca de</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="span3">
+          <ul id="menu" class="nav nav-list" data-spy="affix">
+            <li class="nav-header"><strong>SPERANT - AYUDA</strong></li>
+            <li data-section="1"><a href="/acercade.html">Acerca de Sperant</a></li>
+            <li data-section="2"><a href="/recomendacionesdeuso.html">Recomendaciones de uso</a></li>
+            <li data-section="3"><a href="/aspectosgenerales.html">Aspectos generales</a></li>
+            <!--li data-section="4"><a href="/">Notificaciones</a></li-->
+            <li data-section="5"><a href="/proyectos.html">Módulo de Proyectos</a></li>
+            <li data-section="6"><a href="/clientes.html">Módulo de Clientes</a></li>
+            <li data-section="7"><a href="/adquisicion.html">Módulo de Adquisición</a></li>
+            <li data-section="8"><a href="/vendedores.html">Módulo de Vendedores</a></li>
+            <li data-section="9"><a href="/usuarios.html">Módulo de Usuarios</a></li>
+            <li data-section="10"><a href="/administracion.html">Módulo de Administración</a></li>
+            <li data-section="11"><a href="/reportes.html">Módulo de Reportes</a></li>
+            <li class="nav-header"><strong>SOPORTE</strong></li>
+            <li><a href="mailto:soporte@sperant.com">Contacto de soporte</a></li>
+          </ul>
+        </div>
+        <div class="span9">
+          <h1 id='preasignar_unidades'>Pre-asignar unidades</h1>
+<hr />
+<p>Se le llama pre-asignar cuando un usuario asigna unidades desde la vista de edición de unidades. Para lograr esto requiere accesos para editar unidad. Al hacer esto las unidades quedan &#8220;amarradas&#8221;, y se fuerza a que sean vendidas juntas. Las unidades pre-asignadas pasan a estar &#8220;No disponibles&#8221;, para evitar que sean vendidas de forma separada.</p>
+
+<p>A diferencia de esta acción, un usuario puede crear un presupuesto y asignar unidades de manera temporal a dicho presupuesto. Esta acción no fuerza a que ambas unidades sean vendidas juntas, ya que podría crearse otro presupuesto en el que no estén relacionadas. Sin embargo, si el presupuesto se reserva o se separa, ambas unidades quedan bloqueadas, y de cancelarse ese proceso de adquisición, quedarían disponibles nuevamente. Para más información sobre presupuestos, revise el siguiente enlace: <a href='presupuestos.html'>Presupuestos</a>.</p>
+
+<p>Para pre-asignar unidades, el usuario debe ubicarse en la vista de edición de la unidad, y en el tab de &#8220;Unidades asignadas&#8221;.</p>
+
+<p>&gt;<img alt='Unidades asignadas' src='/images/unidadesasignadas.png' /></p>
+
+<p>Para asignar una unidad basta con escribir parte de su nombre, y hacer click en la lista desplegable que autocompleta el nombre. La unidades se irán adicionando al campo, cuando termine de adicionar, presione el botón de &#8220;Asignar unidades&#8221;.</p>
+
+<p>Regrese al tab de &#8220;Unidades asignadas&#8221; y verá la lista de unidades incluyendo las que asignó hace un momento.</p>
+
+<p>&gt;<img alt='Resultado de unidades asignadas' src='/images/resultadoasignadas.png' /></p>
+
+<p>Cada unidad asignada tiene un botón con el ícono de un ojo, para ir a la vista de cada unidad.</p>
+
+<p>Para desasignar unidades bastará con hacer click en el ícono en forma de tachito al costadod de cada imagen en la lista.</p>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+    </script>
+
+    <script>
+      $('#menu [data-section=""]').addClass('active');
+    </script>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', '']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </body>
+</html>
+
