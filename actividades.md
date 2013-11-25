@@ -11,7 +11,7 @@ title: Actividades
 
   Este es un ejemplo de las actividades que se muestran en una unidad:
 
-  >![Actividades](/images/actividades.png)
+  >![Actividades](images/actividades.png)
 
   Habrán periodos que no registren actividades, y el usuario podrá navegar en esta sección presionando el botón de "Cargar más".  
   
